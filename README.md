@@ -42,7 +42,7 @@ Estas son las carpertas de configuracion las cuales vamos a utilizar para nuestr
 
 
 
-## BLOQUE #1 Configuración del Proyecto: 
+## BLOQUE #1 Configuración del Entorno: 
 Generar la solucion del proyecto (desde la terminal)
 
 ```bash
@@ -97,7 +97,15 @@ dotnet add reference ../Aplication/
 
 En esta ocasion lo vamos a hacer desde el gestor de paquetes Nuget
 (Ctrl + shift + p)
-# imagen de los paquetes en cada proyecto❗❗❗
+
+Dentro de la carpeta Api
+<img src="/Img/api.png" alt="Relaciones" style="width: 3000px;">
+Dentro de la carpeta Domain
+<img src="/Img/Domain.png" alt="Relaciones" style="width: 3000px;">
+Dentro de la carpeta Persistence
+<img src="/Img/Persistencia.png" alt="Relaciones" style="width: 3000px;">
+
+
 
 ### ⚓ Conexion Base de Datos
 Configuracion de la cadena de conexion.
