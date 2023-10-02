@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQU29iDEdRQ1CMus/fZFA3Z80PyvLoQOzxKy3R1GmbAG9UIkdGNcQ8eEioo/c10z/EJIsdNCDkFsJsIdgjCHUg==",
+  "dgSpecHash": "F+RCetskcqp0ThjuQBvARL4Z9kszpB1VYV4TJtg3v8yXguG7YiOAWsCIU3puZ9lsMiRhnogkupWeCwIZNn5zxA==",
   "success": true,
-  "projectFilePath": "/home/skylab-110/JwtManual/Api/Api.csproj",
+  "projectFilePath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Api/Api.csproj",
   "expectedPackageFiles": [
     "/home/skylab-110/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

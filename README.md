@@ -13,17 +13,33 @@ El enfoque principal de este readme es permitir a los interesados comprender el 
 
 ## 📋 Contenido Destacado
 
-### 🧷 Configuración del Proyecto: 
+### Configuración del Proyecto: 
 Inicia con la creación de un nuevo proyecto en .NET Core y la instalación de las dependencias necesarias.
 
-### 🧷 Configuración del Entorno: 
+### Configuración del Entorno: 
 Aprende a configurar el entorno de desarrollo para garantizar una implementación suave.
 
-### 🧷 Generación de JWT: 
+### Generación de JWT: 
 Sumérgete en la creación manual de JSON Web Tokens, comprendiendo los elementos esenciales y la estructura.
 
-### 🧷 Implementación: 
+### Implementación: 
 Descubre cómo integrar los JWT generados en tu aplicación .NET Core.
+
+## Estructura del Proyecto Cuatro Capas
+Estas son las carpertas de configuracion las cuales vamos a utilizar para nuestros proyectos
+
+ - #### En Dominio
+   📂 Aqui se crean las tablas que representan la BD y van a estar ubicadas las carpetas de Entidades e Interfaces.
+
+ - #### En Persistencia  
+    📂 Aqui se crea la instancia de conexion a la BD y van a estar ubicadas las carpetas de Data, Configuracion y Migraciones.
+
+ - #### En Aplicacion  
+    📂 Aqui se crea la inyeccion de dependecia para la comunicacion con el WebApi y van a estar ubicadas las carpetas de Unidad de trabajo y Repositorios.
+        
+ - #### En WebApi  
+    📂 Aqui se crean clases encargadas de recibir peticiones de los clientes y van a estar ubicadas las carpetas de Controladores y Extenciones.
+
 
 
 ## BLOQUE #1 Configuración del Proyecto: 
@@ -60,7 +76,8 @@ dotnet sln add ./Api/
 ```
 Establecer referencias entre proyectos
 
-# imagen de referencias entre proyectos❗❗❗❗
+<img src="/Img/Relaciones.png" alt="Relaciones" style="width: 3000px;">
+
 ✨ Desde la carpeta Aplication
 ```bash
 dotnet add reference ../Domain/

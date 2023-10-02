@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aB7qTxMeF7s/+P9uhg4l8MotwEjX/wQFX9h/h+JeSOo0DaeihI5JTaNjsyRp610BxxP2nqVgqlCvi4XroG4+Lg==",
+  "dgSpecHash": "OIuvWUm2eXFwvaC9Ju5xsEBJ1w0x3V7NxoRhClCXLc1+DrkfKEkPIkpPwrqnxWqSdNAQjr5JS8vsmgamwf36fg==",
   "success": true,
-  "projectFilePath": "/home/skylab-110/JwtManual/Persistencia/Persistencia.csproj",
+  "projectFilePath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/Persistencia.csproj",
   "expectedPackageFiles": [
     "/home/skylab-110/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
