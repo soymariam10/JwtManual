@@ -1,20 +1,20 @@
-/*using System.Linq.Expressions;
+using System.Linq.Expressions;
 using Dominio.Entities;
-using Dominio.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Persistencia.Data;
 
 namespace Aplicacion.Repository;
-public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
+public abstract class GenericRepository<T> where T : BaseEntityA
 {
 
-    private readonly NameContext _context;
-    
-    public GenericRepository(NameContext context)
+    private readonly JwtManualContext _context;
+    protected readonly DbSet<T> _Entities;
+    public GenericRepository(JwtManualContext context)
     {
         _context = context;
+        _Entities = _context.Set<T>();
     }
-    
+
     public virtual void Add(T entity)
     {        
         _context.Set<T>().Add(entity);
@@ -55,4 +55,4 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
         _context.Set<T>().Update(entity);
     }
 
-}*/
+}

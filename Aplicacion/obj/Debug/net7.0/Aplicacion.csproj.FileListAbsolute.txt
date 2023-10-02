@@ -32,3 +32,20 @@ c:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Aplicacion
 /home/skylab-110/JwtManual/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
 /home/skylab-110/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
 /home/skylab-110/JwtManual/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Dominio.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Persistencia.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Dominio.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/bin/Debug/net7.0/Persistencia.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.AssemblyReference.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CopyComplete
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll

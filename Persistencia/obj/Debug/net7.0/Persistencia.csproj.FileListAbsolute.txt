@@ -28,3 +28,18 @@ C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistenc
 /home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
 /home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.pdb
 /home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll
