@@ -1,0 +1,7 @@
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
