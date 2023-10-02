@@ -13,7 +13,7 @@ El enfoque principal de este readme es permitir a los interesados comprender el 
 
 ## 📋 Contenido Destacado
 
-### Configuración del Proyecto: 
+### [Configuración del Proyecto:] (##BLOQUE #1 Configuración del Proyecto: )
 Inicia con la creación de un nuevo proyecto en .NET Core y la instalación de las dependencias necesarias.
 
 ### Configuración del Entorno: 
