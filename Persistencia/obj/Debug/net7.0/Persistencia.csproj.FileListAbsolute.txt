@@ -1,15 +1,30 @@
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\bin\Debug\net7.0\Persistencia.dll
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\bin\Debug\net7.0\Persistencia.pdb
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\bin\Debug\net7.0\Dominio.dll
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\bin\Debug\net7.0\Dominio.pdb
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.dll
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\Persistencia.pdb
-C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JWT MANUAL\JwtManual\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.dll
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.dll
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.pdb
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.dll
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll
+/home/skylab-110/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+/home/skylab-110/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.dll
+/home/skylab-110/JwtManual/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+/home/skylab-110/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.dll
+/home/skylab-110/JwtManual/Persistencia/bin/Debug/net7.0/Dominio.pdb
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.dll
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+/home/skylab-110/JwtManual/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll

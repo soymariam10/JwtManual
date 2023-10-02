@@ -1,5 +1,3 @@
-using Api.Extensions;
-using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Persistencia.Data;
 
@@ -8,10 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.ConfigureCors();
-builder.Services.AddAplicacionServices();
+/*builder.Services.ConfigureCors();
+builder.Services.AddAplicacionServices();*/
 
-builder.Services.AddDbContext<JwtmanualContext>(options =>
+builder.Services.AddDbContext<JwtManualContext>(options =>
 {
     string ? connectionString = builder.Configuration.GetConnectionString("ConexMysql");
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
