@@ -3,13 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dominio.Interfaces
-{
+namespace Dominio.Interfaces;
     public interface IUnitOfWork
     {
-        IRolRepository Roles { get; }
-        IUserRepository Users { get; }
+        IUsuario Usuarios {get; }
         Task<int> SaveAsync();
-
     }
-}

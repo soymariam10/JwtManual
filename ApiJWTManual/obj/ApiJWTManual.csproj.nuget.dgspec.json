@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/skylab-110/Desktop/JwtManual/ApiJWTManual/ApiJWTManual.csproj": {}
+  },
+  "projects": {
+    "/home/skylab-110/Desktop/JwtManual/ApiJWTManual/ApiJWTManual.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/skylab-110/Desktop/JwtManual/ApiJWTManual/ApiJWTManual.csproj",
+        "projectName": "ApiJWTManual",
+        "projectPath": "/home/skylab-110/Desktop/JwtManual/ApiJWTManual/ApiJWTManual.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Desktop/JwtManual/ApiJWTManual/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/skylab-110/Desktop/JwtManual/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/JwtManual/Aplicacion/Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/skylab-110/Desktop/JwtManual/Aplicacion/Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/skylab-110/Desktop/JwtManual/Aplicacion/Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "/home/skylab-110/Desktop/JwtManual/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Desktop/JwtManual/Aplicacion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj"
+              },
+              "/home/skylab-110/Desktop/JwtManual/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/JwtManual/Persistencia/Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Desktop/JwtManual/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/skylab-110/Desktop/JwtManual/Persistencia/Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/skylab-110/Desktop/JwtManual/Persistencia/Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "/home/skylab-110/Desktop/JwtManual/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/skylab-110/.nuget/packages/",
+        "outputPath": "/home/skylab-110/Desktop/JwtManual/Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/JwtManual/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
