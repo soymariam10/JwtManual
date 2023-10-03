@@ -2,8 +2,16 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Api.Dtos;
+using Api.Services;
+using Dominio.Entities;
+using Dominio.Interfaces;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.Extensions.Logging;
 
 namespace Api.Controllers;
@@ -11,21 +19,30 @@ namespace Api.Controllers;
 [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
-        private readonly ILogger<UserController> _service;
+        private readonly UserService userService;
 
-        public UserController(ILogger<UserController> user)
+        public UserController( UserService UserService)
         {
-            _logger = logger;
+           this.userService = UserService;
         }
+        
+    [HttpPost("authenticate")]
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+    public async Task<IActionResult> User(AddUserDto addUserDto)
+    {
+        var User = await loginService.GetUser(AddUserDto);
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        if (User is null)
+        return BadRequest(new{message = "Credenciales Invalidas"});
+
+        return Ok(new { token = "some value"});
+    }
+    private string GenerateToken(User user)
+    {
+        var claims = new[]
         {
-            return View("Error!");
+            new Claim(ClaimTypes.Name, user.Username),
+            new Claim(ClaimTypes.Email, user.Email)
         }
+    }
     }

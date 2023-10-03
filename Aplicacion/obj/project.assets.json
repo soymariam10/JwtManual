@@ -5490,19 +5490,19 @@
     ]
   },
   "packageFolders": {
-    "/home/skylab-110/.nuget/packages/": {}
+    "C:\\Users\\APOLM01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/Aplicacion.csproj",
+      "projectUniqueName": "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/Aplicacion.csproj",
-      "packagesPath": "/home/skylab-110/.nuget/packages/",
-      "outputPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/obj/",
+      "projectPath": "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5514,11 +5514,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Dominio/Dominio.csproj": {
-              "projectPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Dominio/Dominio.csproj"
+            "C:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Dominio\\Dominio.csproj"
             },
-            "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/Persistencia.csproj": {
-              "projectPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Persistencia/Persistencia.csproj"
+            "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5548,7 +5548,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

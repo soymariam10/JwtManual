@@ -34,3 +34,15 @@ C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Dominio/ob
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Dominio/obj/Debug/net7.0/refint/Dominio.dll
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Dominio/obj/Debug/net7.0/Dominio.pdb
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Dominio/obj/Debug/net7.0/ref/Dominio.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Dominio\obj\Debug\net7.0\ref\Dominio.dll

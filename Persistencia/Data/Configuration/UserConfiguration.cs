@@ -28,6 +28,18 @@ namespace Persistencia.Data.Configuration
             .HasMaxLength(100)
             .IsRequired();
 
+            builder.Property(e => e.RegDate)
+            .HasColumnName("AdminType")
+            .HasColumnType("varchar")
+            .HasMaxLength(50)
+            .IsRequired();
+
+            builder.Property(i =>i.RegDate)
+            .HasColumnName("FechaRegistro")
+            .HasColumnType("datetime")
+            .HasMaxLength(50)
+            .IsRequired();
+
             //configuracion de la tabla intermedia Many to Many
             builder
             .HasMany(p => p.Roles)

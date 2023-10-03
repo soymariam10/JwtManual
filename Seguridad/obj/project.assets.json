@@ -5859,19 +5859,19 @@
     ]
   },
   "packageFolders": {
-    "/home/skylab-110/.nuget/packages/": {}
+    "C:\\Users\\APOLM01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Seguridad/Seguridad.csproj",
+      "projectUniqueName": "C:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Seguridad/Seguridad.csproj",
-      "packagesPath": "/home/skylab-110/.nuget/packages/",
-      "outputPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Seguridad/obj/",
+      "projectPath": "C:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Seguridad\\Seguridad.csproj",
+      "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skylab-110/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5883,8 +5883,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Aplicacion/Aplicacion.csproj"
+            "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Users\\APOLM01\\Desktop\\Maria Morales\\Proyectos\\JwtManual\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }
@@ -5920,7 +5920,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

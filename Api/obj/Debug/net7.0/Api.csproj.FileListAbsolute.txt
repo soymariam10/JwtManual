@@ -169,3 +169,13 @@ C:/Users/APOLM01/Desktop/Maria Morales/Proyectos/JWT MANUAL/JwtManual/Api/obj/De
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Api/obj/Debug/net7.0/Api.pdb
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Api/obj/Debug/net7.0/Api.genruntimeconfig.cache
 /home/skylab-110/Desktop/NO BORRAR POR FAVOR/JwtManual/Api/obj/Debug/net7.0/ref/Api.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\refint\Api.dll
+C:\Users\APOLM01\Desktop\Maria Morales\Proyectos\JwtManual\Api\obj\Debug\net7.0\Api.pdb
