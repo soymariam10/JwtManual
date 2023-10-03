@@ -12,6 +12,7 @@ namespace Dominio.Entities
     public string Password { get; set; }
     public string AdminType { get; set; }
     public DateTime RegDate { get; set; }
+    public DateTime ExpDate { get; set; }
     public ICollection<Rol> Roles { get; set; } = new HashSet<Rol>();
     public ICollection<UsersRoles> UsersRoles { get; set; }
     }

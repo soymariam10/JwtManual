@@ -26,6 +26,7 @@ namespace Persistencia.Data.Configuration
             .HasColumnName("email")
             .HasColumnType("varchar")
             .HasMaxLength(100)
+            .IsUnique();
             .IsRequired();
 
             builder.Property(e => e.RegDate)
